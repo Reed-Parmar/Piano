@@ -134,10 +134,6 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Add new songs to the collections
 
-## 📝 License
-
-This project is licensed under the MIT License - feel free to use, modify, and distribute as needed.
-
 ## 🐛 Troubleshooting
 
 ### No Sound?
